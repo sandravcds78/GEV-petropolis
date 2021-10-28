@@ -12,7 +12,7 @@ como as ocorridas nos anos de 2011 e 2013. Portanto, analisar e prever a ocorrê
 para a subsistência de muitas famílias locais e a segunda de extrema importância para evitar a perda de vidas humanas. 
 A modelagem do comportamento desse evento extremo é feita, geralmente, por meio da distribuição Generalizada de Valores Extremos (GEV). 
 A metodologia Bayesiana tem apresentado bons resultados na estimação dos parâmetros da distribuição GEV. Sendo assim, objetivou-se ajustar a distribuição GEV às séries 
-históricas de precipitação máxima de Petrópolis, e avaliar diferentes estruturas de \textit{prioris}, informativas e não informativas, 
+históricas de precipitação máxima de Petrópolis, e avaliar diferentes estruturas de prioris, informativas e não informativas, 
 na previsão dos valores de precipitação extrema de Petrópolis em diferentes tempos de retorno. Foi possível concluir que a distribuição a priori fundamentada em 
 informações da cidade de Teresópolis, uma vez a variância, forneceu resultados mais precisos e acurados para os níveis de retorno para a cidade de Petrópolis. 
 Dessa forma, foram  realizadas  as predições para  as  precipitações  máximas esperadas para os tempos de retorno de 2, 5, 10, 25, 50, 100, 115 e 135 anos utilizando-se essa 
